@@ -7,7 +7,6 @@
 #include <stdio.h>
 
 
-
 /**
  * main - Print a text according number 
  * Return: Always (Success)
